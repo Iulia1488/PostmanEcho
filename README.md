@@ -1,1 +1,2 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/jabcbugotofhyxtn?svg=true)](https://ci.appveyor.com/project/Iulia1488/postman-echo)
+[![Java CI with Gradle](https://github.com/Iulia1488/PostmanEcho/actions/workflows/gradle.yml/badge.svg)](https://github.com/Iulia1488/PostmanEcho/actions/workflows/gradle.yml)
